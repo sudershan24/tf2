@@ -1,10 +1,6 @@
 
 <html>
-<head>
-<style>
-body{background-color: brown;}
-</style>
-</head>
+
 <body>
 
 <h1> Welcome to Team Fortress 2 </h1>
